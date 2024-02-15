@@ -1,4 +1,4 @@
-Descrição do Projeto
+# Descrição do Projeto
 Este projeto envolve a criação e manipulação de um banco de dados para uma empresa fictícia. O banco de dados inclui várias tabelas que armazenam informações sobre funcionários,
 departamentos, localizações de departamentos, projetos e dependentes de funcionários.
 
@@ -30,3 +30,8 @@ Estas colunas foram escolhidas porque são frequentemente usadas nas cláusulas 
 Inserção de Dados
 Foram inseridos até 5 registros em cada tabela para fins de teste.
 
+# Utilização de Procedures nos Bancos de Dados E-commerce e Universidade
+As Procedures são um recurso poderoso do SQL que permite encapsular uma série de instruções SQL em uma única rotina armazenada no banco de dados.
+Neste contexto, foi utilizada uma Procedure em cada banco para manipular dados nas tabelas Clients e Pessoa respectivamente.
+
+As Procedures foram criadas para realizar operações de selecionar, atualizar, deletar e criar.
